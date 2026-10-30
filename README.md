@@ -1,3 +1,4 @@
+
 # <span style="color: #d63384;">🌸 Carpeta de Campo: Proyecto EcoSign BOT</span>
 <div style="background-color: #f8d7da; padding: 2px; margin-bottom: 20px;"></div>
 
@@ -98,3 +99,4 @@ void loop() {
   dedoPulgar.write(0);
   delay(1500);                           
 }
+![enter image description here](https://raw.githubusercontent.com/gdydaniela/proyecto-final/refs/heads/main/imagen/7daf2817-466d-43d1-a259-ec5cd59abcc2.jfif)
