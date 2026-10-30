@@ -99,4 +99,5 @@ void loop() {
   dedoPulgar.write(0);
   delay(1500);                           
 }
+```
 ![enter image description here](https://github.com/gdydaniela/proyecto-final/blob/main/imagen/7daf2817-466d-43d1-a259-ec5cd59abcc2.jfif)
